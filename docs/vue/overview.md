@@ -32,7 +32,7 @@ While there are no known technical limitations to using `Ionic Vue` with [Cordov
 ```shell-session
 $ npm install -g @ionic/cli
 $ ionic start myApp tabs --type vue
-
+$ cd myApp
 $ ionic serve █
 ```
 
